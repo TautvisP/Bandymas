@@ -1,0 +1,4 @@
+Eilutes Nr. : 1 , joje skyrikliu: 3
+Eilutes Nr. : 2 , joje skyrikliu: 13
+Eilutes Nr. : 3 , joje skyrikliu: 6
+Eilutes Nr., kurioje daugiausia skyrikliu: 2
